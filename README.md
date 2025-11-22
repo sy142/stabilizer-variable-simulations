@@ -5,8 +5,9 @@
 
 **Authors:** Salim Yilmaz & Erhan Cene  
 **Journal:** Journal of the American Statistical Association (JASA)  
-**Last Updated:** November 2025  
-**Publication Year:** 2026
+**Status:** Manuscript submitted for publication  
+**Last Updated:** November 2025
+**Expected Publication Year:** 2026 (pending acceptance)
 
 ---
 
@@ -405,7 +406,7 @@ If you use this code, please cite:
   author={Yilmaz, Salim and Cene, Erhan},
   journal={Journal of the American Statistical Association},
   year={2026},
-  doi={10.1080/01621459.XXXX.XXXXXXX}
+  note={Manuscript submitted for publication. Expected publication year: 2026 (pending acceptance). DOI to be assigned upon acceptance}
 }
 ```
 
@@ -422,7 +423,7 @@ This code is released under the **MIT License**. See [LICENSE](LICENSE) file for
 **Salim Yilmaz**  
 Department of Health Management  
 Acibadem Mehmet Ali Aydinlar University  
-Istanbul, Turkey  
+Istanbul, Turkiye  
 Email: salim.yilmaz@acibadem.edu.tr 
 Email 2: salimyilmaz142@gmail.com 
 ORCID: [0000-0003-2405-5084](https://orcid.org/0000-0003-2405-5084)
@@ -430,7 +431,7 @@ ORCID: [0000-0003-2405-5084](https://orcid.org/0000-0003-2405-5084)
 **Erhan Cene**  
 Department of Statistics  
 Yildiz Technical University  
-Istanbul, Turkey  
+Istanbul, Turkiye 
 Email: ecene@yildiz.edu.tr  
 ORCID: [0000-0001-5336-6004](https://orcid.org/0000-0001-5336-6004)
 
@@ -443,6 +444,7 @@ Computing resources provided by Acibadem Mehmet Ali Aydinlar University.
 ---
 
 **Repository Version:** 1.0.0  
-**Last Updated:** November 2024  
+**Last Updated:** November 2025  
 
 **R Version Tested:** 4.4.2 (2024-10-31)
+
