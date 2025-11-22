@@ -47,3 +47,27 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# ==============================================================================
+# Simulation Output Files
+# ==============================================================================
+# Ignore large simulation results (hundreds of MBs)
+SimulationRecords/*.rds
+SimulationRecords/*.csv
+
+# Keep directory structure
+!SimulationRecords/.gitkeep
+
+# ==============================================================================
+# Additional R Files to Ignore
+# ==============================================================================
+# Large workspace files
+*.RData
+*.RDataTmp
+
+# Session history
+.Rhistory
+
+# R project files
+*.Rproj
+.Rproj.user/
