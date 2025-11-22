@@ -439,7 +439,7 @@ ORCID: [0000-0001-5336-6004](https://orcid.org/0000-0001-5336-6004)
 
 ## Acknowledgments
 
-Computing resources provided by Acibadem Mehmet Ali Aydinlar University.
+The article processing charge was covered by the Acibadem Mehmet Ali Aydınlar University.
 
 ---
 
@@ -447,4 +447,5 @@ Computing resources provided by Acibadem Mehmet Ali Aydinlar University.
 **Last Updated:** November 2025  
 
 **R Version Tested:** 4.4.2 (2024-10-31)
+
 
