@@ -5,7 +5,7 @@
 
 **Authors:** Salim Yilmaz & Erhan Cene  
 **Journal:** Journal of the American Statistical Association (JASA)  
-**Last Updated:** November 2024  
+**Last Updated:** November 2025  
 **Publication Year:** 2026
 
 ---
@@ -444,4 +444,5 @@ Computing resources provided by Acibadem Mehmet Ali Aydinlar University.
 
 **Repository Version:** 1.0.0  
 **Last Updated:** November 2024  
+
 **R Version Tested:** 4.4.2 (2024-10-31)
