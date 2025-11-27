@@ -346,11 +346,11 @@ mechanism_detected  # TypeA, TypeB, TypeAB, Marginal, None
 
 | Phase    | Simulations | Time       | Output Size      |
 |----------|-------------|------------|------------------|
-| Phase 1  | 800,000     | 18-22 hrs  | ~865 MB (.rds)   |
-| Phase 2A | 3,000       | 15-20 min  | ~30 MB           |
-| Phase 2B | 3,300       | 20-25 min  | ~35 MB           |
-| Phase 2C | 3,600       | 25-30 min  | ~40 MB           |
-| Phase 3  | 3,600       | 30-45 min  | ~40 MB           |
+| Phase 1  | 800,000     | 18-22 hrs  | ~102 MB (.rds)   |
+| Phase 2A | 3,000       | 15-20 min  | ~387 KB          |
+| Phase 2B | 3,300       | 20-25 min  | ~416 KB          |
+| Phase 2C | 3,600       | 25-30 min  | ~454 KB          |
+| Phase 3  | 3,600       | 30-45 min  | ~460 KB          |
 
 ### Memory Usage
 
@@ -444,6 +444,7 @@ Institutional support for article processing charges has been secured.
 **Last Updated:** November 2025  
 
 **R Version Tested:** 4.4.2 (2024-10-31)
+
 
 
 
