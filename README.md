@@ -3,7 +3,8 @@
 **Supplementary Materials for:**  
 *Identification Theory and Testing of Stabilizer Variables in Multi-Group Structural Models*
 
-**Authors:** Salim Yilmaz & Erhan Cene  
+**Authors:** This manuscript is currently under double-blind peer review. Information will be provided upon publication. 
+ 
 **Journal:** Journal of the American Statistical Association (JASA)  
 **Status:** Manuscript submitted for publication  
 **Last Updated:** November 2025
@@ -246,6 +247,12 @@ seed = 20000 + iteration_number  # 2C
 
 # Phase 3
 seed = 30000 + iteration_number
+
+## Data Availability
+
+- **Simulation Code:** This repository (https://github.com/sy142/stabilizer-variable-simulations)
+- **Simulation Results:** Figshare (https://doi.org/10.6084/m9.figshare.30731633)
+
 ```
 
 This ensures:
@@ -401,9 +408,9 @@ results <- readRDS("output.rds")  # Fast loading
 
 If you use this code, please cite:
 ```bibtex
-@article{yilmaz2026stabilizer,
+@article{This manuscript is currently under double-blind peer review. Information will be provided upon publication. ,
   title={Identification Theory and Testing of Stabilizer Variables in Multi-Group Structural Models},
-  author={Yilmaz, Salim and Cene, Erhan},
+  author={This manuscript is currently under double-blind peer review. Information will be provided upon publication. },
   journal={Journal of the American Statistical Association},
   year={2026},
   note={Manuscript submitted for publication. Expected publication year: 2026 (pending acceptance). DOI to be assigned upon acceptance}
@@ -420,26 +427,16 @@ This code is released under the **MIT License**. See [LICENSE](LICENSE) file for
 
 ## Contact
 
-**Salim Yilmaz**  
-Department of Health Management  
-Acibadem Mehmet Ali Aydinlar University  
-Istanbul, Turkiye  
-Email: salim.yilmaz@acibadem.edu.tr 
-Email 2: salimyilmaz142@gmail.com 
-ORCID: [0000-0003-2405-5084](https://orcid.org/0000-0003-2405-5084)
+This manuscript is currently under double-blind peer review.
 
-**Erhan Cene**  
-Department of Statistics  
-Yildiz Technical University  
-Istanbul, Turkiye 
-Email: ecene@yildiz.edu.tr  
-ORCID: [0000-0001-5336-6004](https://orcid.org/0000-0001-5336-6004)
+Contact information will be provided upon publication. For questions regarding the code or methodology, please open an issue in this repository.
+
 
 ---
 
 ## Acknowledgments
 
-The article processing charge was covered by the Acibadem Mehmet Ali Aydınlar University.
+Institutional support for article processing charges has been secured.
 
 ---
 
@@ -447,5 +444,6 @@ The article processing charge was covered by the Acibadem Mehmet Ali Aydınlar U
 **Last Updated:** November 2025  
 
 **R Version Tested:** 4.4.2 (2024-10-31)
+
 
 
