@@ -411,7 +411,7 @@ If you use this code, please cite:
 @article{This manuscript is currently under double-blind peer review. Information will be provided upon publication. ,
   title={Identification Theory and Testing of Stabilizer Variables in Multi-Group Structural Models},
   author={This manuscript is currently under double-blind peer review. Information will be provided upon publication. },
-  journal={Journal of the American Statistical Association},
+  journal={Structural Equation Modeling: A Multidisciplinary Journal},
   year={2026?},
   note={Manuscript submitted for publication. Expected publication year: 2026 (pending acceptance). DOI to be assigned upon acceptance}
 }
@@ -444,6 +444,7 @@ Institutional support for article processing charges has been secured.
 **Last Updated:** December 2025  
 
 **R Version Tested:** 4.4.2 (2024-10-31)
+
 
 
 
