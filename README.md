@@ -5,10 +5,10 @@
 
 **Authors:** This manuscript is currently under double-blind peer review. Information will be provided upon publication. 
  
-**Journal:** Journal of the American Statistical Association (JASA)  
+**Journal:** Structural Equation Modeling: A Multidisciplinary Journal 
 **Status:** Manuscript submitted for publication  
-**Last Updated:** November 2025
-**Expected Publication Year:** 2026 (pending acceptance)
+**Last Updated:** December 2025
+**Expected Publication Year:** (Pending)
 
 ---
 
@@ -303,7 +303,7 @@ all.equal(result1, result2)  # Should return TRUE
 - Violates structural independence
 - **Purpose:** Distinguish from stabilization
 
-Full mathematical specifications in **Supplementary Section S3**.
+Full mathematical specifications in **Supplementary Section S4**.
 
 ---
 
@@ -412,7 +412,7 @@ If you use this code, please cite:
   title={Identification Theory and Testing of Stabilizer Variables in Multi-Group Structural Models},
   author={This manuscript is currently under double-blind peer review. Information will be provided upon publication. },
   journal={Journal of the American Statistical Association},
-  year={2026},
+  year={2026?},
   note={Manuscript submitted for publication. Expected publication year: 2026 (pending acceptance). DOI to be assigned upon acceptance}
 }
 ```
@@ -444,6 +444,7 @@ Institutional support for article processing charges has been secured.
 **Last Updated:** November 2025  
 
 **R Version Tested:** 4.4.2 (2024-10-31)
+
 
 
 
