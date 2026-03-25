@@ -546,15 +546,18 @@ setwd("/path/to/SVT_Simulation")
 ---
 
 ## Citation
-
 ```bibtex
 @article{yilmaz2026stabilizer,
-  title   = {Stabilizer Variables for Measurement Invariance--Induced Heterogeneity:
-             Identification Theory and Testing in Multi-Group Models},
-  author  = {Yilmaz, Salim and Cene, Erhan},
-  journal = {Mathematics},
-  year    = {2026},
-  note    = {Manuscript submitted for publication}
+  title     = {Stabilizer Variables for Measurement Invariance--Induced Heterogeneity:
+               Identification Theory and Testing in Multi-Group Models},
+  author    = {Yilmaz, Salim and Cene, Erhan},
+  journal   = {Mathematics},
+  volume    = {14},
+  number    = {6},
+  pages     = {1064},
+  year      = {2026},
+  doi       = {10.3390/math14061064},
+  url       = {https://www.mdpi.com/2227-7390/14/6/1064}
 }
 ```
 
